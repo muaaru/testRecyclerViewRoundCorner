@@ -1,6 +1,6 @@
 # testRecyclerViewRoundCorner
 
-RecyclerViewで角丸にする対応方法の調査
+RecyclerViewで角丸にする対応のテスト実装
 
 参考：
 https://github.com/googlesamples/android-ClippingBasic
